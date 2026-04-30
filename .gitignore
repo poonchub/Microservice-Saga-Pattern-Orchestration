@@ -1,0 +1,8 @@
+inventory-service/node_modules/
+inventory-service/prisma/migrations/
+
+order-service/node_modules/
+order-service/prisma/migrations/
+
+payment-service/node_modules/
+payment-service/prisma/migrations/
